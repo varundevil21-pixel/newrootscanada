@@ -1,0 +1,26 @@
+[
+  {
+    "name": "IRCC Help Centre",
+    "type": "Government",
+    "location": "National",
+    "description": "Official Canadian immigration support and application status information."
+  },
+  {
+    "name": "Settlement.org",
+    "type": "Nonprofit",
+    "location": "Ontario",
+    "description": "Settlement services and newcomer resources across Ontario."
+  },
+  {
+    "name": "ACCES Employment",
+    "type": "Nonprofit",
+    "location": "Toronto",
+    "description": "Employment support for newcomers, credential recognition, and job search help."
+  },
+  {
+    "name": "Regulated RCIC",
+    "type": "Licensed Consultant",
+    "location": "Canada",
+    "description": "Licensed immigration consultant support for complex applications."
+  }
+]

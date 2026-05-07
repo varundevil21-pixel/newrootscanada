@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Toronto",
+    "province": "Ontario",
+    "population": 2920000,
+    "highlights": ["Multicultural", "Job market", "Transit"]
+  },
+  {
+    "name": "Vancouver",
+    "province": "British Columbia",
+    "population": 675000,
+    "highlights": ["Pacific coast", "Tech jobs", "Outdoor life"]
+  },
+  {
+    "name": "Calgary",
+    "province": "Alberta",
+    "population": 1239000,
+    "highlights": ["Affordable housing", "Energy sector", "Parks"]
+  },
+  {
+    "name": "Montreal",
+    "province": "Quebec",
+    "population": 1780000,
+    "highlights": ["Culture", "Education", "Food scene"]
+  }
+]
